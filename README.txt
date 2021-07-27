@@ -1,0 +1,2 @@
+Basic CRUD operations performed by an API. This example uses data for employees but the nature of the data can easily change. 
+The API is created using Flask. The DB that manages the data is PostgreSQL.
